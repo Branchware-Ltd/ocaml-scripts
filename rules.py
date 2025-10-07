@@ -229,6 +229,7 @@ def _process(rules, opam_switch, pkg):
         "unixnat",
         "threadsnat",
         "camlstrnat",
+        "comprmarsh",
     ]
     compiler_bytelibs = [
         "camlruntime_eventsbyt",
